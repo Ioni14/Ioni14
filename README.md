@@ -1,6 +1,6 @@
 Hello :wave:! 
 
-Je m'appelle Thomas et je passionné d'ingénierie logicielle. 
+Je m'appelle Thomas et je suis passionné d'ingénierie logicielle. 
 
 Cela fait environ cinq ans que je développe principalement en PHP+Symfony :heart:. Je m'intéresse surtout à l'architecture et en particulier au DDD, à l'architecture hexagonale et je suis CQRS enthousiaste. Je suis également un grand amoureux de Docker :heart: et du DevOps en général.
 
