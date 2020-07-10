@@ -9,4 +9,5 @@ Sur mon profil se trouve mes side-projects les plus aboutis pour la communauté 
  * SC-Galaxy https://github.com/Ioni14/star-citizen-galaxy
 
 Mon Linkedin: https://www.linkedin.com/in/thomas-talbot/
+
 Mon Twitter: https://twitter.com/thomas_ioni14
