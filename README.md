@@ -7,3 +7,6 @@ Cela fait environ cinq ans que je développe principalement en PHP/Symfony :hear
 Sur mon profil se trouve mes side-projects les plus aboutis pour la communauté du jeu Star Citizen: 
  * Fleet-Manager https://github.com/Ioni14/starcitizen-fleet-manager
  * SC-Galaxy https://github.com/Ioni14/star-citizen-galaxy
+
+Mon Linkedin: https://www.linkedin.com/in/thomas-talbot/
+Mon Twitter: https://twitter.com/thomas_ioni14
