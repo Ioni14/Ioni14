@@ -5,6 +5,6 @@ Je m'appelle Thomas et je suis passionné d'ingénierie logicielle. Je suis pré
 
 Cela fait environ cinq ans que je développe principalement en PHP/Symfony :heart:. Je m'intéresse surtout à l'architecture et en particulier au DDD, à l'architecture hexagonale et je suis CQRS enthousiaste. Je suis également un grand amoureux de Docker :heart: et du DevOps en général.
 
-Sur mon profil se trouve mes side-projects les plus aboutis pour la communauté du jeu Star Citizen: 
+Sur mon profil se trouvent mes side-projects les plus aboutis pour la communauté du jeu Star Citizen: 
  * Fleet-Manager https://github.com/Ioni14/starcitizen-fleet-manager
  * SC-Galaxy https://github.com/Ioni14/star-citizen-galaxy
